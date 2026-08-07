@@ -1,0 +1,6 @@
+# Local / generated files
+*.bak
+*.layout-new
+*.zip
+.DS_Store
+Thumbs.db
